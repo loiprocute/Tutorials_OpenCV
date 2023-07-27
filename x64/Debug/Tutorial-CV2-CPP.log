@@ -1,0 +1,4 @@
+﻿  Chapter6.cpp
+C:\Users\PC\source\repos\Tutorial-CV2-CPP\Chapter6.cpp(13,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/FORCE' specification
+  Tutorial-CV2-CPP.vcxproj -> C:\Users\PC\source\repos\Tutorial-CV2-CPP\x64\Debug\Tutorial-CV2-CPP.exe

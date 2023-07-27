@@ -1,0 +1,4 @@
+﻿  Chapter3.cpp
+Chapter3.obj : error LNK2001: unresolved external symbol "void __cdecl cv::imshow(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class cv::_InputArray const &)" (?imshow@cv@@YAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV_InputArray@1@@Z)
+Chapter3.obj : error LNK2001: unresolved external symbol "void __cdecl cv::resize(class cv::_InputArray const &,class cv::_OutputArray const &,class cv::Size_<int>,double,double,int)" (?resize@cv@@YAXAEBV_InputArray@1@AEBV_OutputArray@1@V?$Size_@H@1@NNH@Z)
+C:\Users\PC\source\repos\Tutorial-CV2-CPP\x64\Release\Tutorial-CV2-CPP.exe : fatal error LNK1120: 2 unresolved externals
